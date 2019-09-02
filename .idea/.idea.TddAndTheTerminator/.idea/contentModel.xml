@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.2.0/build/netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
     <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.0/build/netcoreapp2.0/nunit.engine.api.dll" t="Include" />
     <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.0/build/netcoreapp2.0/nunit.engine.dll" t="Include" />
     <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.0/build/netcoreapp2.0/NUnit3.TestAdapter.dll" t="Include" />
@@ -23,7 +26,6 @@
         </e>
         <e p="Services" t="Include">
           <e p="ISubjectAnalyser.cs" t="Include" />
-          <e p="SubjectAnalyser.cs" t="Include" />
         </e>
         <e p="TerminatorProcess.csproj" t="IncludeRecursive" />
         <e p="Tests" t="Include">
@@ -31,8 +33,8 @@
         </e>
       </e>
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_TddAndTheTerminator.-1502295355.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_TddAndTheTerminator.-1502295355.00" t="ExcludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
   </component>
 </project>
