@@ -18,8 +18,7 @@ namespace TerminatorProcess.Tests
         
         
         //** Scan subjects and determine if they require further investigation **
-        // - Scan subjects and see if they are human
-        // - Upon investigation, determine if intended target
+        // - Scan subjects and see if they are of interest
         
         
         
